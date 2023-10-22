@@ -5,11 +5,6 @@
 	grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 1fr);
     grid-gap: 10px;
-    width: 200px;
-    height: 200px;
-}
-.item{
-	background-color: #3498db;
-    padding: 20px;
-    text-align: center;
+    width: 100px;
+    height: 100px;
 }
